@@ -1,0 +1,33 @@
+tsl
+
+WHAT IS TSL?
+tsl is a simple tool used to translate english words to chinese
+
+HOW TO INSTALL TSL?
+#tar -xvzf tsl.tar.gz
+#make
+#make install
+
+UNINSTALL
+#make uninstall
+
+
+TODO
+* Allow it to translate from chinese to english words
+* Manage $HOME/.wordlist.txt
+    Delete repeated words
+    Sort the words by frequency
+    Get more meaning from website
+    pop a txt frame in the above window
+
+VERSION
+0.0 - first version Alex works :)
+
+LICENSE
+
+GNU GPL, see the LICENSE file for details
+
+CONTACT
+Email: lkong@redhat.com
+
+Please  email me about problems, experiences, fixes, etc.
