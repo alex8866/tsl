@@ -6,7 +6,7 @@ TARGETS = tsl
 MANPAGE = tsl.1.gz
 
 OBJS = tsl.o
-LDFLAGS = -g #-D_DEBUG
+LDFLAGS = -g -lcurl #-D_DEBUG
 CPPFLAGS =
 
 all: ${TARGETS} rmo
