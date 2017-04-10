@@ -233,5 +233,6 @@ int main(int argc,char *argv[])
         printf("%s",writ);
     }
 
+
     return 0;
 }
