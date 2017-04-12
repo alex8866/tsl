@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("lkong101111131231231333\n");
+    printf("lkong1011111312312313312313213\n");
     return 0;
 }
